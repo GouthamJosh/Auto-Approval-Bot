@@ -7,6 +7,29 @@
 ## 🚀 Demo Bot
 - [Demo Bot](https://telegram.dog/approvelk_bot)
 
+## Deploy
+You can deploy this bot anywhere.
+
+<details><summary>Deploy To Koyeb</summary>
+<p>
+<br>
+<a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/GouthamSER/Auto-Approval-Bot&branch=main&name=autoapprovelbot">
+ <img src="https://www.koyeb.com/static/images/deploy/button.svg">
+</a>
+</p>
+</details>
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/GouthamSER/Auto-Approval-Bot/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+
+</a>
+</p>
+</details>
+
+
 ## How To Deploy [Video Tutorial](https://youtu.be/M76T4pKm6ks)
 
 ## 🏷 Environment Variables
